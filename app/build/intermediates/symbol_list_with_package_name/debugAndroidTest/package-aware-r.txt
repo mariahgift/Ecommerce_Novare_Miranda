@@ -1,0 +1,3 @@
+ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

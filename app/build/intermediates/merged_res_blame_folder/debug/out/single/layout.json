@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-mergeDebugResources-4:/layout/activity_register.xml",
+        "source": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-mergeDebugResources-4:/layout/dialogue_add_product.xml",
+        "source": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-main-7:/layout/dialogue_add_product.xml"
+    },
+    {
+        "merged": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-mergeDebugResources-4:/layout/product_item.xml",
+        "source": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-main-7:/layout/product_item.xml"
+    },
+    {
+        "merged": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "ph.stacktrek.novare.ecommercenovare.miranda.mariahgift.app-main-7:/layout/activity_main.xml"
+    }
+]
