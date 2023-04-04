@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Marewchin</string>
+    <string name="username_string">Username</string>
+    <string name="password_string">Password</string>
+    <string name="confirm_password_string">Confirm Password</string>
+    <string name="register_string">Register</string>
+
+    <string name="register_question_string">Don\'t have an account? Create new</string>
+    <string name="create_account_string">Create new account</string>
+    <string name="register_instruction_string">Please fill in the following fields.</string>
+    <string name="latest_products">Latest Products</string>
+    <string name="view_product_description">View Product Description</string>
+    <string name="view_product_name">View Product Name</string>
+    <string name="view_product_price">View Product Price</string>
+    <string name="view_product_details">View Product Details</string>
+    <string name="register">Register</string>
+
+</resources>
